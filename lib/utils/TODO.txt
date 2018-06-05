@@ -1,0 +1,2 @@
+- eliminate words ending with "-"" etc..
+- do not match words containing numbers

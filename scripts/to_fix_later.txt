@@ -1,0 +1,222 @@
+{ "name": "ammon", "gender": ["m"], "language": ["egyptian mythology (hellenized)"] },
+{ "name": "amon", "gender": ["m"], "language": ["egyptian mythology"] },
+{ "name": "anubis", "gender": ["m"], "language": ["egyptian mythology (hellenized)"] },
+{ "name": "grid", "gender": ["f"], "language": ["norse mythology"] },
+{ "name": "hathor", "gender": ["f"], "language": ["egyptian mythology (hellenized)"] },
+{ "name": "horus", "gender": ["m"], "language": ["egyptian mythology (hellenized)"] },
+{ "name": "les", "gender": ["m"], "language": ["english"] },
+{ "name": "media", "gender": ["f"], "language": ["english"] },
+{ "name": "osiris", "gender": ["m"], "language": ["egyptian mythology (hellenized)"] },
+{ "name": "ptah", "gender": ["m"], "language": ["egyptian mythology"] },
+{ "name": "ra", "gender": ["m"], "language": ["egyptian mythology"] },
+{ "name": "re", "gender": ["m"], "language": ["egyptian mythology"] },
+{ "name": "set", "gender": ["m"], "language": ["egyptian mythology"] },
+{ "name": "seth (1)", "gender": ["m"], "language": ["biblical", "english"] },
+{ "name": "seth (2)", "gender": ["m"], "language": ["egyptian mythology (hellenized)"] },
+{ "name": "thoth", "gender": ["m"], "language": ["egyptian mythology (hellenized)"] },
+{ "name": "thutmose", "gender": ["m"], "language": ["egyptian mythology"] },
+{
+ "name": "dev",
+ "gender": ["m"],
+ "language": ["indian"]
+},{
+  "name": "da",
+  "gender": ["m"],
+  "language": ["chinese"]
+},{
+  "name": "ed",
+  "gender": ["m"],
+  "language": ["english"]
+},
+{
+  "name": "forbes",
+  "gender": ["m"],
+  "language": ["scottish"]
+}, {
+  "name": "ford",
+  "gender": ["m"],
+  "language": ["english"]
+}, {
+  "name": "forest",
+  "gender": ["m"],
+  "language": ["english"]
+},
+{
+  "name": "france",
+  "gender": ["m"],
+  "language": ["english"]
+},
+{
+  "name": "india",
+  "gender": ["f"],
+  "language": ["english"]
+},
+{
+ "name": "ing",
+ "gender": ["m"],
+ "language": ["germanic mythology", "norse mythology"]
+},{
+  "name": "jan",
+  "gender": ["m", "f"],
+  "language": ["dutch", "scandinavian", "czech", "polish", "german", "english"]
+},{
+ "name": "job",
+ "gender": ["m"],
+ "language": ["biblical"]
+}, {
+ "name": "julián",
+ "gender": ["m"],
+ "language": ["spanish"]
+}, {
+ "name": "july",
+ "gender": ["f"],
+ "language": ["english"]
+}, {
+ "name": "june",
+ "gender": ["f"],
+ "language": ["english"]
+}, {
+ "name": "junior",
+ "gender": ["m"],
+ "language": ["english"]
+},
+{
+  "name": "lake",
+  "gender": ["m"],
+  "language": ["english"]
+},
+{
+  "name": "lien",
+  "gender": ["f"],
+  "language": ["vietnamese"]
+},
+{
+  "name": "major",
+  "gender": ["m"],
+  "language": ["english"]
+},{
+  "name": "mars",
+  "gender": ["m"],
+  "language": ["roman mythology"]
+},
+{
+  "name": "may",
+  "gender": ["f"],
+  "language": ["english"]
+},
+{
+ "name": "melle",
+ "gender": ["f"],
+ "language": [""]
+},
+ {
+  "name": "page",
+  "gender": ["f"],
+  "language": ["english"]
+},
+
+{
+ "name": "rich",
+ "gender": ["m"],
+ "language": ["english"]
+},
+{
+  "name": "rio",
+  "gender": ["m"],
+  "language": [""]
+},
+{
+ "name": "roi",
+ "gender": ["m"],
+ "language": ["galician", "jewish"]
+},
+ {
+  "name": "rue",
+  "gender": ["f"],
+  "language": ["english"]
+}, {
+  "name": "sal",
+  "gender": ["f", "m"],
+  "language": ["english"]
+}, {
+  "name": "san",
+  "gender": ["m", "f"],
+  "language": ["chinese"]
+}, {
+ "name": "shell",
+ "gender": ["f", "m"],
+ "language": ["english"]
+}, {
+  "name": "spring",
+  "gender": ["f"],
+  "language": ["english"]
+}, {
+ "name": "stanford",
+ "gender": ["m"],
+ "language": ["english"]
+}, {
+  "name": "tel",
+  "gender": ["m"],
+  "language": ["english"]
+}, {
+ "name": "tex",
+ "gender": ["m"],
+ "language": ["english"]
+},{
+  "name": "than",
+  "gender": ["m"],
+  "language": [""]
+},
+{
+ "name": "unique",
+ "gender": ["f"],
+ "language": ["english"]
+}
+{
+  "name": "ah",
+  "gender": ["m", "f"],
+  "language": ["chinese"]
+},
+
+{
+ "name": "an",
+ "gender": ["m", "f"],
+ "language": ["chinese"]
+},{
+  "name": "art",
+  "gender": ["m"],
+  "language": ["english"]
+},
+{
+ "name": "asia",
+ "gender": ["f", "m"],
+ "language": ["english"]
+},{
+  "name": "berlin",
+  "gender": ["f"],
+  "language": [""]
+},{
+  "name": "bo",
+  "gender": ["m"],
+  "language": ["swedish", "danish","chinese"]
+}, {
+  "name": "brand",
+  "gender": ["m"],
+  "language": ["english"]
+},{
+  "name": "can",
+  "gender": ["m"],
+  "language": ["turkish"]
+},{
+  "name": "china",
+  "gender": ["f"],
+  "language": ["english"]
+}, {
+  "name": "ciel",
+  "gender": ["f"],
+  "language": ["english"]
+},{
+  "name": "confucius",
+  "gender": ["m"],
+  "language": ["history"]
+},

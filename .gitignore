@@ -1,0 +1,8 @@
+scripts/merge.json
+scripts/news.json
+scripts/words.json
+scripts/out.json
+scripts/merged.json
+node_modules/
+npm-debug.log
+.*

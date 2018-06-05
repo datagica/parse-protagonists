@@ -1,0 +1,26 @@
+{
+  "name": "@datagica/parse-protagonists",
+  "version": "0.0.5",
+  "description": "Extract protagonists from text",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Julian Bilcke <julian.bilcke@datagica.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datagica/parse-protagonists.git"
+  },
+  "dependencies": {
+    "@datagica/fast-index": "^0.0.5",
+    "@datagica/parse-dates": "^0.0.4",
+    "@datagica/parse-names": "^0.0.6",
+    "@datagica/parse-roles": "^0.0.0",
+    "@datagica/parse-events": "^0.0.0",
+    "@datagica/tokenize": "^0.0.2"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
